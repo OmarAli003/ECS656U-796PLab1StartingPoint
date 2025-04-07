@@ -1,4 +1,4 @@
-package com.grpc.matrixmult.server;
+package server;
 
 import com.grpc.matrixmult.MatrixRequest;
 import com.grpc.matrixmult.MatrixReply;
