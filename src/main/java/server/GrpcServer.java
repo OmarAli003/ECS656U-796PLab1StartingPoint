@@ -1,4 +1,4 @@
-package server;
+package com.grpc.matrixmult.server;
 
 import java.io.IOException;
 
